@@ -19,7 +19,10 @@ def load_camera_data():
             elif el.tag == "CFA" or el.tag == "CFA2":
                 color_pattern = ""
                 for p in el:
-                    color_pattern = color_pattern + p.text[0]
+                    if p.text in ["RED", "GREEN","BLUE"]:
+                        color_pattern = color_pattern + p.text[0]
+                    else:
+                        color_pattern = color_pattern + p.text
                 camera["color_pattern"] = color_pattern
             elif el.tag == "Crop":
                 x = int(el.attrib["x"])
