@@ -1,0 +1,9 @@
+make = "FUJIFILM"
+model = "FinePix F700"
+clean_make = "Fujifilm"
+clean_model = "FinePix F700"
+color_pattern = "GR"
+crops = [ 0, 16, 0, 16,]
+blackpoint = 0
+whitepoint = 16383
+color_matrix = [ 10004, -3219, -1201, -7036, 15047, 2107, -1863, 2565, 7736,]

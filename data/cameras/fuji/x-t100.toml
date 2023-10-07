@@ -1,0 +1,9 @@
+make = "FUJIFILM"
+model = "X-T100"
+clean_make = "Fujifilm"
+clean_model = "X-T100"
+color_pattern = "RGGB"
+crops = [ 0, 0, 0, 0,]
+blackpoint = 1024
+whitepoint = 16383
+color_matrix = [ 11673, -4760, -1041, -3988, 12058, 2166, -771, 1417, 5569,]

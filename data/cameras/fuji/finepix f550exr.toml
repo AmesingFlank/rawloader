@@ -1,0 +1,9 @@
+make = "FUJIFILM"
+model = "FinePix F550EXR"
+clean_make = "Fujifilm"
+clean_model = "FinePix F550EXR"
+color_pattern = "RGGB"
+crops = [ 0, 36, 0, 40,]
+blackpoint = 256
+whitepoint = 3900
+color_matrix = [ 13690, -5358, -1474, -3369, 11600, 1998, -132, 1554, 4395,]

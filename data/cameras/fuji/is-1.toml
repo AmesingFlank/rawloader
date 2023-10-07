@@ -1,0 +1,9 @@
+make = "FUJIFILM"
+model = "IS-1"
+clean_make = "Fujifilm"
+clean_model = "IS-1"
+color_pattern = "GR"
+crops = [ 0, 32, 0, 32,]
+blackpoint = 0
+whitepoint = 15872
+color_matrix = [ 21461, -10807, -1441, -2332, 10599, 1999, 289, 875, 7703,]

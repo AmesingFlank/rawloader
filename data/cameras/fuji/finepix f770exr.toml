@@ -1,0 +1,9 @@
+make = "FUJIFILM"
+model = "FinePix F770EXR"
+clean_make = "Fujifilm"
+clean_model = "FinePix F770EXR"
+color_pattern = "RGGB"
+crops = [ 0, 34, 0, 38,]
+blackpoint = 256
+whitepoint = 3900
+color_matrix = [ 13690, -5358, -1474, -3369, 11600, 1998, -132, 1554, 4395,]

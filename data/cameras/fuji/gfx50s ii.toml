@@ -1,0 +1,9 @@
+make = "FUJIFILM"
+model = "GFX50S II"
+clean_make = "Fujifilm"
+clean_model = "GFX50S II"
+color_pattern = "RGGB"
+crops = [ 0, 192, 4, 0,]
+blackpoint = 64
+whitepoint = 16383
+color_matrix = [ 11756, -4754, -874, -3056, 11045, 2305, -381, 1457, 6006,]

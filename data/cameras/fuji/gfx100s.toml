@@ -1,0 +1,9 @@
+make = "FUJIFILM"
+model = "GFX100S"
+clean_make = "Fujifilm"
+clean_model = "GFX100S"
+color_pattern = "RGGB"
+crops = [ 4, 146, 6, 0,]
+blackpoint = 0
+whitepoint = 0
+color_matrix = [ 16212, -8423, -1583, -4336, 12583, 1937, -195, 726, 6199,]

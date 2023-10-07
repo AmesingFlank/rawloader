@@ -1,0 +1,9 @@
+make = "FUJIFILM"
+model = "FinePix S5600"
+clean_make = "Fujifilm"
+clean_model = "FinePix S5600"
+color_pattern = "GR"
+crops = [ 0, 30, 0, 30,]
+blackpoint = 0
+whitepoint = 15872
+color_matrix = [ 9636, -2804, -988, -7442, 15040, 2589, -1803, 2311, 8621,]

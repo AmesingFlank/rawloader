@@ -1,0 +1,9 @@
+make = "FUJIFILM"
+model = "X-T3"
+clean_make = "Fujifilm"
+clean_model = "X-T3"
+color_pattern = "GGBGGR"
+crops = [ 8, 134, 6, 0,]
+blackpoint = 1022
+whitepoint = 16383
+color_matrix = [ 13426, -6334, -1177, -4244, 12136, 2371, -580, 1303, 5980,]

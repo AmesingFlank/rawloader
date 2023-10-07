@@ -1,0 +1,9 @@
+make = "FUJIFILM"
+model = "FinePix S7000"
+clean_make = "Fujifilm"
+clean_model = "FinePix S7000"
+color_pattern = "GR"
+crops = [ 4, 0, 0, 6,]
+blackpoint = 0
+whitepoint = 15869
+color_matrix = [ 10190, -3506, -1312, -7153, 15051, 2238, -2003, 2399, 7505,]
